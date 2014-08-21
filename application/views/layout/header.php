@@ -20,8 +20,8 @@
 	<h1 class="site-title">My Site</h1>
 	<nav class="main-navigation">
 	<ul>
-	<li><a href="index">Home</a></li>
-	<li><a href="notes">My Notes</a></li>
+	<li><a href="http://yuqiaoshen.com/CI/webnotes/index">Home</a></li>
+	<li><a href="http://yuqiaoshen.com/CI/webnotes/notes">My Notes</a></li>
 	</ul>
 	</nav>
 	
